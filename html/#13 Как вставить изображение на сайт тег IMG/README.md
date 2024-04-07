@@ -1,6 +1,8 @@
-#9 Как сделать меню на сайте используя тег NAV на HTML
+#13 Как вставить изображение на сайт тег IMG
 
-Изучаем теги nav, семантический тег
-https://www.youtube.com/watch?v=S5YhuE25x_s&list=PLuY6eeDuleIMjV7Kff8yf8RA-XwjXVGgl&index=11&ab_channel=ITDoctor
 
-Задание: добавить небольшое меню
+Изучаем теги img, просто добавляет изображение, для проверки атрибута alt кот был удалён
+
+https://www.youtube.com/watch?v=0mTaXAvuXcQ&list=PLuY6eeDuleIMjV7Kff8yf8RA-XwjXVGgl&index=14&ab_channel=ITDoctor
+
+Задание: добавить изображенние
