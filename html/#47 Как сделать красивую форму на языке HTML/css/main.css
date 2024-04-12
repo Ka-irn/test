@@ -1,0 +1,41 @@
+form fieldset {
+	width: 800px;
+}
+form legend,  form label {
+	font-size: 20px;
+	font-weight: bold;
+}
+form button {
+	height: 50px;
+	font-size: 20px;
+	background: #0093ff;
+	border-radius: 10px;
+	padding: 10px 15px;
+	line-height: 20px;
+	border: none;
+}
+form button:hover {
+	background: #2da6ff;
+	color: #fff;
+}
+form input, form textarea {
+	margin-bottom: 10px;
+	margin-left: 20px;
+	font-size: 16px;
+	border-radius: 5px;
+	font-family: Tahoma;
+	border: 2px solid #009dff;
+	padding-left: 10px;
+	box-shadow: 1px 1px 8px #898989;
+}
+form input {
+	width: 250px;
+	height: 30px;
+}
+form textarea {
+	padding-top: 5px;
+	resize: vertical;
+}
+imput:focus, textarea:focus {
+	border: 2px solid #00ff1d;
+}
