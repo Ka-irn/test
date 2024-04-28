@@ -2,6 +2,6 @@
 	class Size {
 		public $x;
 		public $y;
-		public static $ha = 100
+		public static $ha = 100;
 	}
 ?>
