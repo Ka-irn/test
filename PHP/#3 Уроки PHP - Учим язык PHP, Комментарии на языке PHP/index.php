@@ -11,6 +11,10 @@
 		echo "Что то"; //Выводит что то
 		echo "Что то"; #Выводит что то
 		echo "Что то"; /*Выводит что то*/
+
+		/*Lorem ipsum dolor, sit amet consectetur adipisicing elit. Enim sint 
+		itaque voluptatibus labore repudiandae nihil rem est 
+		amet dolores repellat?*/
 	?>
 </body>
 </html>
